@@ -2,7 +2,11 @@
 //Trabajo Práctico n°1
 //Comisión 3 prof. David Bedoian
 
+void setup(){
 size(800,400);
+}
+
+void draw(){
 background(227,23,125);
 
 PImage foto;
@@ -450,3 +454,4 @@ line(533,355,545,400);
 line(661,295,683,355);
 line(683,355,768,383);
 line(768,383,790,400);
+}
