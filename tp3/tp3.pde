@@ -1,3 +1,8 @@
+//Herrera Abril Aylen - 121132/4
+//Trabajo Práctico n°3 recuperatorio
+//Comisión 3 prof. David Bedoian
+
+
 PImage imagen;
 int tam;
 
